@@ -6,7 +6,7 @@ Storm topology to stream in tweets, perform basic sentiment analytics and store 
 
 The Storm topology 
 
-![Topology](img/sentiment_storm_topology.PNG)
+![Topology](img/sentiment_storm_topology.png)
 
 ## Deployment
 
@@ -29,4 +29,4 @@ Create the tweet_counts Hive table corresponding to your needs :
 
 What we can view in the Hive view in Ambari (Hortonworks distribution) :
 
-![Hive view](img/data_visualization.PNG)
+![Hive view](img/data_visualization.png)
